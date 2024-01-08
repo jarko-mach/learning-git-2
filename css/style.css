@@ -30,3 +30,9 @@ footer {
     max-width: 330px;
     font-size: 10px;
 }
+
+@media (max-width: 375px) {
+    .container {
+        margin: 40px 0 0 40px;
+    }
+}
